@@ -1,0 +1,7 @@
+output/notebooks/
+output/downloads/
+notebooks/*.executed.ipynb
+reference/*.executed.ipynb
+reference/my_systems.json
+.ipynb_checkpoints/
+__pycache__/

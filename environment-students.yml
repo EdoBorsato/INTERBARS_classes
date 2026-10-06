@@ -1,0 +1,9 @@
+# interbars student bundle — conda environment.  conda env create -f environment-students.yml
+name: interbars-students
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      - -r requirements-students.txt
